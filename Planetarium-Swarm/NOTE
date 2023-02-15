@@ -1,0 +1,1 @@
+Make sure to use "locustio/locust" as the base image, there are issue if you use a base Python image
